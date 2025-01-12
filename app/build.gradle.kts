@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.osama.pdfviewer"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.osama.pdfviewer"
